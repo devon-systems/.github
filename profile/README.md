@@ -1,12 +1,9 @@
-## Hi there 👋
+# Devon Systems
 
-<!--
+Infrastructure + extras for [@alyraffauf](https://github.com/alyraffauf).
+Built with NixOS, Kubernetes, and a fondness for pocket monsters.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [sinnoh](https://github.com/devon-systems/sinnoh): production infrastructure for personal and client uses.
+- [johto](https://github.com/devon-systems/johto): hybrid cloud for private services and compute-heavy services.
+- [hoenn](https://github.com/devon-systems/johto): personal NixOS configs, dotfiles, and home lab infrastructure.
+- [infra](https://github.com/devon-systems/infra): shared tools, assets, and documentation.
