@@ -1,5 +1,5 @@
 Infrastructure + tooling for [@alyraffauf](https://github.com/alyraffauf).
-Built with NixOS, Kubernetes, and a fondness for pocket monsters.
+Built with NixOS, Kubernetes, and a fondness for pocket monsters. ❤️
 
 - [sinnoh](https://github.com/devon-systems/sinnoh): production infrastructure for personal and client apps.
 - [johto](https://github.com/devon-systems/johto): hybrid cloud for private services and compute-heavy services.
